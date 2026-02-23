@@ -244,4 +244,3 @@ After running test cases, verify:
 
 ---
 
-**Note**: Feel free to test with your own custom values to further verify the program's correctness!
