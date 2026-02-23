@@ -158,7 +158,8 @@ This program meets and exceeds all assignment requirements:
 
 ---
 
-**Author**: Student Name  
-**Course**: Programming Course  
-**Date**: February 22, 2026  
+**Author**: Mukhlas Ghafoor  
+**Course**: Computer Science 115 
+**Date**: February 24, 2026  
 **Version**: 1.0
+
