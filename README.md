@@ -51,34 +51,6 @@ The program includes robust input validation:
 - Handles invalid input gracefully with error messages
 - Allows early exit with 999 quit value
 
-## Code Quality Features
-
-### Programming Logic (Excellent - 9-10):
-- ✅ Program compiles with no errors
-- ✅ No I/O or logic errors
-- ✅ Exceeds specifications with input validation and user feedback
-- ✅ Handles edge cases (no grades entered, invalid input)
-
-### Standards (Excellent - 9-10):
-- ✅ Stylistically well-designed code
-- ✅ Descriptive variable names (e.g., `runningTotal`, `gradeCount`, `averageGrade`)
-- ✅ Proper indentation throughout
-- ✅ Constants used for configuration values
-- ✅ Follows Java naming conventions
-
-### Code Efficiency (Excellent - 9-10):
-- ✅ Extremely efficient implementation
-- ✅ No redundant code
-- ✅ Optimal loop structures
-- ✅ Single-pass array operations
-- ✅ Maintains readability and understanding
-
-### Documentation (Excellent - 9-10):
-- ✅ Comprehensive JavaDoc comments for all methods
-- ✅ Clear explanation of program purpose at the top
-- ✅ Inline comments explaining logic flow
-- ✅ Parameter and return value documentation
-- ✅ Step numbers clearly marked in comments
 
 ## Example Program Flow
 
@@ -162,4 +134,5 @@ This program meets and exceeds all assignment requirements:
 **Course**: Computer Science 115 
 **Date**: February 24, 2026  
 **Version**: 1.0
+
 
