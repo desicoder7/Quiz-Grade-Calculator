@@ -119,7 +119,7 @@ This program meets and exceeds all assignment requirements:
 - ✅ Exception handling
 - ✅ Resource management
 
-## Additional Features (Exceeds Requirements)
+## Additional Features
 
 1. **Input Validation**: Comprehensive error checking for invalid input
 2. **User Feedback**: Encouraging messages based on letter grade
@@ -134,5 +134,6 @@ This program meets and exceeds all assignment requirements:
 **Course**: Computer Science 115 
 **Date**: February 24, 2026  
 **Version**: 1.0
+
 
 
