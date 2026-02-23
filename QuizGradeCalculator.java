@@ -17,9 +17,9 @@ import java.util.Scanner;
  * Grading Scale:
  * A = 90-100, B = 80-89, C = 70-79, D = 60-69, F = 0-59
  * 
- * @author Student Name
+ * @author Mukhlas Ghafoor
  * @version 1.0
- * @date February 22, 2026
+ * @date February 24, 2026
  */
 public class QuizGradeCalculator {
     
@@ -286,3 +286,4 @@ public class QuizGradeCalculator {
         }
     }
 }
+
